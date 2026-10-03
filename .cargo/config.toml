@@ -1,0 +1,3 @@
+[env]
+# 录麦克风用到 ScreenCaptureKit 的 macOS 15 API；目标设低了 Swift 会要求链接不存在的兼容库
+MACOSX_DEPLOYMENT_TARGET = "15.0"

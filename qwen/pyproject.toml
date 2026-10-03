@@ -1,0 +1,6 @@
+[project]
+name = "subs-qwen"
+version = "0.1.0"
+description = "Qwen3-ASR (MLX, Apple GPU) recognition sidecar for subs"
+requires-python = ">=3.11"
+dependencies = ["mlx-qwen3-asr>=0.4.4", "numpy"]

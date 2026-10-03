@@ -1,0 +1,3 @@
+/target
+*.srt
+__pycache__/
